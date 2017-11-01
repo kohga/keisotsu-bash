@@ -1,0 +1,14 @@
+# Bash Noisy
+
+uname -a
+echo
+w
+echo
+df
+echo
+echo -e "\nMemory:"
+free -m
+echo
+netstat -nlt
+echo
+

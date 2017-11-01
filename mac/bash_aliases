@@ -1,0 +1,9 @@
+# bash_aliases
+
+# My alias
+alias pdf='open -a Preview'
+alias finda='open .'
+alias ll='ls -alF'
+alias la='ls -A'
+alias l='ls -CF'
+

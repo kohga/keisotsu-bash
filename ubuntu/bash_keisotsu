@@ -1,0 +1,14 @@
+# bash_keisotsu
+
+TIME=`date '+%Y/%m/%d   %H:%M:%S'`
+echo  -e "\n----- Welcome to  Keisotsu Bash! -----\nversion:1.2 (login: ${TIME})\n"
+
+
+alias komari='echo "コマリマシタ、、、 (；人；)"'
+alias gatten='echo "ガッテン承知シマシタ！ (≧ω≦)ゞ"'
+alias error='echo "エラーが出チマッタゼ！ |ω・)ﾁﾗ"'
+
+alias nakapi='echo "愚かドットスティングレイ"'
+alias koyappe='echo "本当ですかっ！？！？！？"'
+alias iyada='echo "不協和音"'
+
